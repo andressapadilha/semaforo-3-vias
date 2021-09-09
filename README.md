@@ -21,23 +21,23 @@
 
   Semáforo 1:
    
-  Vermelho (13)   - Jumper Branco
-  Amarelo  (12)   - Jumper Vermelho
-  Verde    (11)   - Jumper Amarelo
+ - Vermelho (13)   
+ - Amarelo  (12)   
+ - Verde    (11)   
 
 
   Semáforo 2:
 
-  Vermelho (10)   - Jumper Verde
-  Amarelo  (9)    - Jumper Azul
-  Verde    (8)    - Jumper Marrom
+ - Vermelho (10)   
+ - Amarelo  (9)    
+ - Verde    (8)    
 
 
   Semáforo 3:
 
-  Vermelho (7)   - Jumper Roxo
-  Amarelo  (6)   - Jumper Verde
-  Verde    (5)   - Jumper Azul
+ - Vermelho (7)   
+ - Amarelo  (6)   
+ - Verde    (5)   
   
   
  
