@@ -4,8 +4,8 @@
 
  Nesse semáforo, foram utilizados os seguintes compontentes:
 
-  -Arduino UNO R3 CP2102
-  -Protoboard 830pts
+  - Arduino UNO R3 CP2102
+  - Protoboard 830pts
   
   *9 LEDS
   - 3 Vermelhos
