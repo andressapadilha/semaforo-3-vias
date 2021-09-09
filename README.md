@@ -1,5 +1,7 @@
 ### Semáforo de 3 vias
 
+***Projeto desenvolvido no Módulo II - Eletrônica***
+
 ***Notas de uso
 
  Nesse semáforo, foram utilizados os seguintes compontentes:
